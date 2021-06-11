@@ -26,3 +26,9 @@ The cost versus iterations was plotted to identify the best value of alpha.
 </p>
 
 ## Normal Equation
+
+The prediction can also be done using Normal Equation instead of gradient descent. It does not require feature scaling as well. The formula of the normal equations is shown in Fig. below:
+
+<p align="center">
+<img src="/Resources/normal-equation.PNG">
+</p>
