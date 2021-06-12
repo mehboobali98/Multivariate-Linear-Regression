@@ -32,3 +32,16 @@ The prediction can also be done using Normal Equation instead of gradient descen
 <p align="center">
 <img src="/Resources/normal-equation.PNG">
 </p>
+
+# Directory Structure
+
+📦Multivariate-Linear-Regression
+┣ 📂Dataset
+┃ ┗ 📜ex1data2.txt
+┣ 📂Documents
+┃ ┗ 📜Linear Regression.docx
+┣ 📂Resources
+┃ ┣ 📜learning-rate.PNG
+┃ ┗ 📜normal-equation.PNG
+┣ 📜A1_Q1_Part_2.ipynb
+┗ 📜README.md
