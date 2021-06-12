@@ -35,6 +35,7 @@ The prediction can also be done using Normal Equation instead of gradient descen
 
 # Directory Structure
 
+<pre>
 📦Multivariate-Linear-Regression
 ┣ 📂Dataset
 ┃ ┗ 📜ex1data2.txt
@@ -45,3 +46,4 @@ The prediction can also be done using Normal Equation instead of gradient descen
 ┃ ┗ 📜normal-equation.PNG
 ┣ 📜A1_Q1_Part_2.ipynb
 ┗ 📜README.md
+</pre>
